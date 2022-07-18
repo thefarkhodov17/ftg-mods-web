@@ -1,6 +1,6 @@
 {
 	"port": 1113,
-	"url": "mods.hikariatama.ru",
+	"url": "https://thefarkhodov17.github.io/ftg-mods-web/",
 	"license": "GNU AGPLv3",
 	"disable_git_pull": true,
 	"mods_path": "../my_mods"
